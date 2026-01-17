@@ -1,4 +1,4 @@
-from learner_profiler import LearnerProfiler
+from v2.learner_profiler_v2 import LearnerProfiler
 from v2.progress_tracker_v2 import ProgressTracker
 from content_manager import ContentManager
 
